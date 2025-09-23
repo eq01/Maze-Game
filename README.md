@@ -1,4 +1,4 @@
-# Maze-Game (Co-developed)
+# Maze-Game | Java (Co-developed)
 Interactive maze game built in Java, featuring real-time visualization, maze generation with Kruskal’s algorithm, and automated or manual maze-solving.
 
 Features:
